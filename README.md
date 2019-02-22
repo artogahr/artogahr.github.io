@@ -1,2 +1,5 @@
+
 # artogahr.github.io
-My site
+---
+permalink: /index.html
+---
